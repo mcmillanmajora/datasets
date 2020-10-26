@@ -1,0 +1,67 @@
+---
+language: 
+- multilingual: 
+- BCP-47: 
+task_structure:
+- 
+purpose:
+- 
+language_producers:
+- 
+annotation:
+- 
+license:
+- 
+---
+# Dataset Card for 
+
+## Table of Contents
+- [Tasks Supported](#tasks-supported)
+- [Purpose](#purpose)
+- [Languages](#languages)
+- [People Involved](#who-iswas-involved-in-the-dataset-use-and-creation)
+- [Data Characteristics](#data-characteristics)
+- [Dataset Structure](#dataset-structure)
+- [Known Limitations](#known-limitations)
+- [Licensing information](#licensing-information)
+
+## Tasks supported:
+### Task categorization / tags
+
+## Purpose
+
+## Languages 
+### Per language:
+
+## Who is/was involved in the dataset use and creation?
+### Who are the dataset curators?
+
+### Who are the language producers (who wrote the text / created the base content)?
+
+### Who are the annotators?
+
+## Data characteristics
+
+### How was the data collected?
+
+### Normalization information
+
+### Annotation process
+
+## Dataset Structure
+### Splits, features, and labels
+
+### Span indices
+
+### Example ID
+
+### Free text description for context (e.g. describe difference between title / selftext / body in Reddit data) and example
+
+### Suggested metrics / models:
+
+## Known Limitations
+### Known social biases
+
+### Other known limitations
+
+## Licensing information
