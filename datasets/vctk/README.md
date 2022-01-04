@@ -166,7 +166,7 @@ The dataset has no predefined splits.
 
 ### Licensing Information
 
-[More Information Needed]
+Public Domain, [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 ### Citation Information
 
